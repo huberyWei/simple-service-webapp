@@ -1,4 +1,4 @@
-package com.bmwmms.service;
+package com.bmwmms.dao;
 
 import java.util.List;
 

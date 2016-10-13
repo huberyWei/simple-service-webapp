@@ -6,8 +6,8 @@ import javax.enterprise.context.RequestScoped;
 import javax.inject.Inject;
 import javax.inject.Named;
 
+import com.bmwmms.dao.ItemDao;
 import com.bmwmms.model.Item;
-import com.bmwmms.service.ItemDao;
 
 @Named
 @RequestScoped
